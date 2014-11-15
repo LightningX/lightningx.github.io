@@ -5,6 +5,6 @@ pygments: true
 paginate: 8
 permalink: /:title
 
-title: nbi.com
+title: LightningX' Blog
 feed: /atom.xml
 author_info: LightningX
